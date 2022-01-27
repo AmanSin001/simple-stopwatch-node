@@ -1,0 +1,15 @@
+{
+  "name": "simple-stopwatch-node",
+  "version": "1.0.2",
+  "description": "package for running stopwatch functionality in node js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["stopwatch", "timer", "stopwatch node js", "timer node js"],
+  "author": "Aman Singh",
+  "license": "MIT",
+  "dependencies": {
+    "convert-seconds": "^1.0.1"
+  }
+}
